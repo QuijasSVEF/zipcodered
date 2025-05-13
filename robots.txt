@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://sweet-sorbet-bd7249.netlify.app/sitemap.xml
+
+# Crawling optimization
+Crawl-delay: 2
+
+# Important pages
+Allow: /
+Allow: /impact
+Allow: /take-action
+Allow: /resources
+Allow: /#about
+Allow: /#coalition
+
+# Additional important sections
+Allow: /#documentary
+Allow: /#stats
+Allow: /#heatmap
+
+# Prevent duplicate content
+Disallow: /*?*
+Disallow: /*?

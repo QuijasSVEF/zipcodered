@@ -1,0 +1,16 @@
+{
+  "name": "Zip Code Red - California School Funding Checker",
+  "short_name": "Zip Code Red",
+  "description": "Check California school funding disparities by zip code and take action for educational equity.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#9CCFE6",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
