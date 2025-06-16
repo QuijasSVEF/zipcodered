@@ -16,7 +16,7 @@ export function LetterUpload() {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
             <Button
               as="a"
-              href="https://docs.google.com/document/d/1ryPLmsqLjha4DsH2dIwCR8UMJb1EF45O/edit"
+              href="https://docs.google.com/document/d/1iM1T9WBmf9EajVG_UXpLfU6CRJ7xOsdT/edit?usp=sharing&ouid=110474046563993791348&rtpof=true&sd=true"
               target="_blank"
               rel="noopener noreferrer"
               variant="primary"
